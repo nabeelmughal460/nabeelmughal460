@@ -25,7 +25,7 @@
 
 #### 🚀 Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind" alt="Development Tech" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,supabase,mySql,javascript" alt="Development Tech" />
 </p>
 
 #### 🔧 Tools & Platforms
@@ -38,8 +38,8 @@
 ### 🧠 Core Skills
 
 ```text
-Frontend:  React, Redux, Tailwind CSS, UI/UX Optimization, Responsive Web Design
+Frontend:  React, Redux, Tailwind CSS, UI/UX Optimization, Responsive Web Design,Sass
 Backend:   Node.js, Express.js, REST APIs, System Architecture
-Database:  MongoDB, Mongoose ODM
+Database:  MongoDB, Mongoose ODM,mySQL,PostGresql
 DevOps:    Git, GitHub, Vercel / Netlify Deployment
 AI Tools:  Cohere AI API Integration, Prompt Engineering
